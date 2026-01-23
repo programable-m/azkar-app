@@ -1,0 +1,16 @@
+﻿{
+  "name": "أذكار الصباح والمساء",
+  "short_name": "الأذكار",
+  "description": "تطبيق الأذكار اليومية",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#1a5276",
+  "theme_color": "#1a5276",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
